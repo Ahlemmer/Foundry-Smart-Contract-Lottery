@@ -1,0 +1,8 @@
+RaffleTest:testCheckUpkeepReturnsFalseIfEnoughTimeHasntPassed() (gas: 71604)
+RaffleTest:testCheckUpkeepReturnsFalseIfItHasNoBalance() (gas: 19089)
+RaffleTest:testCheckUpkeepReturnsFalseIfRaffleIsntOpen() (gas: 219187)
+RaffleTest:testDontAllowPlayersToEnterWhileRaffleIsCalculating() (gas: 224051)
+RaffleTest:testEmitsEventOnEntrance() (gas: 68128)
+RaffleTest:testRaffleInitializesInOpenState() (gas: 7713)
+RaffleTest:testRaffleRecordsPlayerWhenTheyEnter() (gas: 68323)
+RaffleTest:testRaffleRevertsWHenYouDontPayEnought() (gas: 10940)
